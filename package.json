@@ -17,6 +17,11 @@
     "platform-specific"
   ],
   "author": "Gourav Singhal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gourav-singhal/react-native-platform-specific-styles"
+  },
+  "homepage": "https://github.com/gourav-singhal/react-native-platform-specific-styles#readme",
   "license": "MIT",
   "dependencies": {
     "react-native": "0.x"
