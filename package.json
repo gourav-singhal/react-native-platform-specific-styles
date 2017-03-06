@@ -1,0 +1,24 @@
+{
+  "name": "rn-pss",
+  "version": "1.0.0",
+  "description": "Platform specific styles for React native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "style",
+    "styles",
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "platform",
+    "platform-specific"
+  ],
+  "author": "Gourav Singhal",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "0.x"
+  }
+}
